@@ -23,23 +23,17 @@ def getGameStateInfo(local_file_path=""):
     game_data = {}
     data = ""
     if local_file_path == "":
-        # The URL your app is serving data on
         url = "http://localhost:8080/api/data"
-        # Make a GET request to the API
         response = requests.get(url)
 
-        # Check if the request was successful
         if response.status_code == 200:
-            # Parse the JSON data
             data = response.json()
         else:
             print(f"Failed to get data: {response.status_code}")
             return False
     else:
-        # Read from local JSON file
         try:
             with open(local_file_path, 'r') as f:
-                # data is now a Python
                 data = json.load(f)
         except Exception as e:
             print(f"Failed to read local file: {e}")
@@ -88,7 +82,6 @@ def getGameStateInfo(local_file_path=""):
 
 def generate_radio_blast(game_state_info):
     client = ollama.Client()
-#  Observe your previous radio blasts and try not to generate anything too repetitive.
     model = "qwen3"
     prompt = game_state_info
     if not prompt:
