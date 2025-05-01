@@ -1,0 +1,3184 @@
+{
+    "playerProfile": {
+      "name": "Crimson",
+      "factionname": "Crimson Trade Organization",
+      "credits": 8929744,
+      "playersector": "Dellalt"
+    },
+    "activeMission": [],
+    "currentResearch": {
+      "resources": [],
+      "precursors": []
+    },
+    "transactionLog": [
+      {
+        "amount": 14,
+        "ware": "rhydoniumcell",
+        "time": 263663.39276471,
+        "money": -164888,
+        "passedtime": "0m 01s",
+        "price": 11777.75,
+        "eventtypename": "Trade Order",
+        "partnername": "LAAT/c (KUW-026)",
+        "entryid": 51487,
+        "description": "CSA Rhydonium Refinery I (PMR-388) sells 14x Rhydonium Core for 11,777.75 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 8,
+        "ware": "medicalsupplies",
+        "time": 263621.22994931,
+        "money": -258,
+        "passedtime": "0m 43s",
+        "price": 32.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (HYN-618)",
+        "entryid": 51470,
+        "description": "Build Storage (ESS-569) sells 8x Medical Supplies for 32.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263610.77876471,
+        "money": 271547,
+        "passedtime": "0m 53s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (MYF-015)",
+        "entryid": 51467,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 62,
+        "ware": "rhydoniumcell",
+        "time": 263593.92288191,
+        "money": -638799,
+        "passedtime": "1m 10s",
+        "price": 10303.21,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (YVM-438)",
+        "entryid": 51462,
+        "description": "CSA Rhydonium Refinery I (PMR-388) sells 62x Rhydonium Core for 10,303.21 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263578.38629411,
+        "money": 574569,
+        "passedtime": "1m 26s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (SML-791)",
+        "entryid": 51454,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263575.41901091,
+        "money": 712,
+        "passedtime": "1m 29s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (NZE-783)",
+        "entryid": 51452,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 563,
+        "ware": "microchips",
+        "time": 263557.78560971,
+        "money": -413101,
+        "passedtime": "1m 46s",
+        "price": 733.75,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (JWV-934)",
+        "entryid": 51444,
+        "description": "CSA Microchip Factory II (LFG-629) sells 563x Microchips for 733.75 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263554.14269171,
+        "money": 513664,
+        "passedtime": "1m 50s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (VNF-924)",
+        "entryid": 51441,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 263546.93187791,
+        "money": -153016,
+        "passedtime": "1m 57s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (CQC-574)",
+        "entryid": 51437,
+        "description": "NRL Field Coil Factory I (IKG-731) sells 826x Field Coils for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263531.06898131,
+        "money": 712,
+        "passedtime": "2m 13s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (AVQ-055)",
+        "entryid": 51434,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 263529.23592311,
+        "money": -153016,
+        "passedtime": "2m 15s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (RTE-142)",
+        "entryid": 51432,
+        "description": "NRL Field Coil Factory I (IKG-731) sells 826x Field Coils for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263496.67983731,
+        "money": 475566,
+        "passedtime": "2m 48s",
+        "price": 0,
+        "eventtypename": "Profit from Trade Orders",
+        "partnername": "AA-9 Ore Miner (XVG-591)",
+        "entryid": 51423,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263462.01198491,
+        "money": 911068,
+        "passedtime": "3m 22s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (CUF-604)",
+        "entryid": 51412,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 62,
+        "ware": "rhydoniumcell",
+        "time": 263459.01420671,
+        "money": -624421,
+        "passedtime": "3m 25s",
+        "price": 10071.32,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (TZA-267)",
+        "entryid": 51407,
+        "description": "CSA Rhydonium Refinery I (PMR-388) sells 62x Rhydonium Core for 10,071.32 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 32,
+        "ware": "medicalsupplies",
+        "time": 263459.01420671,
+        "money": -1094,
+        "passedtime": "3m 25s",
+        "price": 34.19,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (DDB-642)",
+        "entryid": 51409,
+        "description": "NRL Medical Supply Factory I (RZP-848) sells 32x Medical Supplies for 34.19 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263446.22685011,
+        "money": 271547,
+        "passedtime": "3m 38s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (TEH-480)",
+        "entryid": 51404,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263439.95208551,
+        "money": 712,
+        "passedtime": "3m 44s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (WVZ-186)",
+        "entryid": 51400,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263431.66305071,
+        "money": 973176,
+        "passedtime": "3m 53s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (GMW-710)",
+        "entryid": 51397,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263399.33267591,
+        "money": 509220,
+        "passedtime": "4m 25s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (ICF-399)",
+        "entryid": 51388,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263390.59940711,
+        "money": 403911,
+        "passedtime": "4m 34s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (CVS-726)",
+        "entryid": 51381,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263376.42549491,
+        "money": 518917,
+        "passedtime": "4m 48s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (BHW-288)",
+        "entryid": 51373,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263374.61588591,
+        "money": 271547,
+        "passedtime": "4m 50s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (YIC-946)",
+        "entryid": 51369,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263374.61588591,
+        "money": 263421,
+        "passedtime": "4m 50s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (CLC-549)",
+        "entryid": 51371,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263359.99722311,
+        "money": 712,
+        "passedtime": "5m 04s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle Lead (UBC-786)",
+        "entryid": 51361,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263345.89621391,
+        "money": 280976,
+        "passedtime": "5m 18s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (NRS-093)",
+        "entryid": 51354,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 263332.65820271,
+        "money": -153016,
+        "passedtime": "5m 32s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (DJI-588)",
+        "entryid": 51345,
+        "description": "NRL Field Coil Factory I (TUY-312) sells 826x Field Coils for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263327.77796171,
+        "money": 310450,
+        "passedtime": "5m 36s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "AA-9 Ore Miner (WCE-656)",
+        "entryid": 51343,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263324.21741471,
+        "money": 505338,
+        "passedtime": "5m 40s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (ZVH-805)",
+        "entryid": 51340,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263299.21596431,
+        "money": 712,
+        "passedtime": "6m 05s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (DSG-054)",
+        "entryid": 51325,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263289.38790551,
+        "money": 508469,
+        "passedtime": "6m 15s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (ZYA-390)",
+        "entryid": 51317,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263269.62819431,
+        "money": 511252,
+        "passedtime": "6m 35s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (MCT-423)",
+        "entryid": 51308,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 516,
+        "ware": "claytronics",
+        "time": 263261.80474451,
+        "money": -815796,
+        "passedtime": "6m 42s",
+        "price": 1581,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (KWE-242)",
+        "entryid": 51303,
+        "description": "CSS-1 Corellian Star Shuttle (KWE-242) buys 516x Module PreFab at CSA Module PreFab Factory I (YSH-444) for 1,581.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 688,
+        "ware": "siliconwafers",
+        "time": 263243.19493091,
+        "money": -92880,
+        "passedtime": "7m 01s",
+        "price": 135,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (QQB-480)",
+        "entryid": 51293,
+        "description": "CSS-1 Corellian Star Shuttle (QQB-480) buys 688x Silicon Wafers at CSA Silicon Refinery I (YVG-946) for 135.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263241.68972111,
+        "money": 712,
+        "passedtime": "7m 03s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (HYN-618)",
+        "entryid": 51291,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263236.61844371,
+        "money": 261907,
+        "passedtime": "7m 08s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (QME-052)",
+        "entryid": 51288,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263208.82274351,
+        "money": 46502,
+        "passedtime": "7m 35s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "LAAT/c (KUW-026)",
+        "entryid": 51273,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263193.36042311,
+        "money": 280976,
+        "passedtime": "7m 51s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (MCX-199)",
+        "entryid": 51263,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263179.32642071,
+        "money": 315126,
+        "passedtime": "8m 05s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (KHQ-714)",
+        "entryid": 51252,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263149.92180131,
+        "money": 371690,
+        "passedtime": "8m 34s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (YVM-438)",
+        "entryid": 51241,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263114.60583011,
+        "money": 401654,
+        "passedtime": "9m 10s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (FAJ-873)",
+        "entryid": 51231,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 263110.03175171,
+        "money": -153016,
+        "passedtime": "9m 14s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (HXY-728)",
+        "entryid": 51227,
+        "description": "CSS-1 Corellian Star Shuttle (HXY-728) buys 826x Field Coils at NRL Field Coil Factory I (JZG-822) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263102.17052111,
+        "money": 259568,
+        "passedtime": "9m 22s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (JWV-934)",
+        "entryid": 51225,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263016.65014811,
+        "money": 476616,
+        "passedtime": "10m 48s",
+        "price": 0,
+        "eventtypename": "Profit from Trade Orders",
+        "partnername": "AA-9 Ore Miner (BYR-062)",
+        "entryid": 51203,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 263009.82005471,
+        "money": 633420,
+        "passedtime": "10m 54s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (TZA-267)",
+        "entryid": 51199,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262998.17375351,
+        "money": 487704,
+        "passedtime": "11m 06s",
+        "price": 0,
+        "eventtypename": "Profit from Trade Orders",
+        "partnername": "AA-9 Ore Miner (LIW-307)",
+        "entryid": 51195,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262953.73455071,
+        "money": 339486,
+        "passedtime": "11m 51s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (CQC-574)",
+        "entryid": 51182,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262928.38221371,
+        "money": 339486,
+        "passedtime": "12m 16s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (RTE-142)",
+        "entryid": 51171,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262923.63462311,
+        "money": -4194175,
+        "passedtime": "12m 21s",
+        "price": 0,
+        "eventtypename": "Mission reward",
+        "partnername": "",
+        "entryid": 51168,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262877.91998411,
+        "money": 2848,
+        "passedtime": "13m 06s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (DDB-642)",
+        "entryid": 51147,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262858.73170151,
+        "money": 263978,
+        "passedtime": "13m 26s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (QQB-480)",
+        "entryid": 51141,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262844.63669257,
+        "money": 201514,
+        "passedtime": "13m 40s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (KWE-242)",
+        "entryid": 51133,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262834.25352105,
+        "money": -5745162,
+        "passedtime": "13m 50s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "INC Wharf (KIL-471)",
+        "entryid": 51128,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 516,
+        "ware": "claytronics",
+        "time": 262831.03075175,
+        "money": -815796,
+        "passedtime": "13m 53s",
+        "price": 1581,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (GMW-710)",
+        "entryid": 51125,
+        "description": "CSS-1 Corellian Star Shuttle (GMW-710) buys 516x Module PreFab at CSA Module PreFab Factory I (OOU-695) for 1,581.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262817.95882875,
+        "money": 401723,
+        "passedtime": "14m 06s",
+        "price": 0,
+        "eventtypename": "Profit from Trade Orders",
+        "partnername": "CSS-1 Corellian Star Shuttle (DJI-588)",
+        "entryid": 51121,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 8,
+        "ware": "medicalsupplies",
+        "time": 262815.30826415,
+        "money": -258,
+        "passedtime": "14m 09s",
+        "price": 32.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (DSG-054)",
+        "entryid": 51117,
+        "description": "CSS-1 Corellian Star Shuttle (DSG-054) buys 8x Medical Supplies at Build Storage (ESS-569) for 32.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262809.24848225,
+        "money": 197239,
+        "passedtime": "14m 15s",
+        "price": 0,
+        "eventtypename": "Profit from Trade Orders",
+        "partnername": "CSS-1 Corellian Star Shuttle (HXY-728)",
+        "entryid": 51111,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262807.76081845,
+        "money": -8071284,
+        "passedtime": "14m 16s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "MCS Wharf (NLV-972)",
+        "entryid": 51110,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 8,
+        "ware": "medicalsupplies",
+        "time": 262805.67453385,
+        "money": -258,
+        "passedtime": "14m 19s",
+        "price": 32.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (AVQ-055)",
+        "entryid": 51107,
+        "description": "CSS-1 Corellian Star Shuttle (AVQ-055) buys 8x Medical Supplies at Build Storage (ESS-569) for 32.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 262802.61353285,
+        "money": -153016,
+        "passedtime": "14m 22s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (ZVH-805)",
+        "entryid": 51105,
+        "description": "CSS-1 Corellian Star Shuttle (ZVH-805) buys 826x Field Coils at NRL Field Coil Factory I (IKG-731) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 262800.82622285,
+        "money": -153016,
+        "passedtime": "14m 23s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (ZYA-390)",
+        "entryid": 51103,
+        "description": "CSS-1 Corellian Star Shuttle (ZYA-390) buys 826x Field Coils at NRL Field Coil Factory I (IKG-731) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 262799.46623845,
+        "money": -153016,
+        "passedtime": "14m 25s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (MCT-423)",
+        "entryid": 51101,
+        "description": "CSS-1 Corellian Star Shuttle (MCT-423) buys 826x Field Coils at NRL Field Coil Factory I (IKG-731) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 688,
+        "ware": "siliconwafers",
+        "time": 262799.44021395,
+        "money": -92880,
+        "passedtime": "14m 25s",
+        "price": 135,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (JWV-934)",
+        "entryid": 51099,
+        "description": "CSS-1 Corellian Star Shuttle (JWV-934) buys 688x Silicon Wafers at CSA Silicon Refinery I (QSO-272) for 135.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 688,
+        "ware": "siliconwafers",
+        "time": 262798.53040165,
+        "money": -92880,
+        "passedtime": "14m 26s",
+        "price": 135,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (YWC-506)",
+        "entryid": 51097,
+        "description": "CSS-1 Corellian Star Shuttle (YWC-506) buys 688x Silicon Wafers at CSA Silicon Refinery III (HTW-001) for 135.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 262798.06642505,
+        "money": -153016,
+        "passedtime": "14m 26s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (VNF-924)",
+        "entryid": 51095,
+        "description": "CSS-1 Corellian Star Shuttle (VNF-924) buys 826x Field Coils at NRL Field Coil Factory I (IKG-731) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 8,
+        "ware": "medicalsupplies",
+        "time": 262797.91802345,
+        "money": -258,
+        "passedtime": "14m 26s",
+        "price": 32.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (MBC-339)",
+        "entryid": 51093,
+        "description": "CSS-1 Corellian Star Shuttle (MBC-339) buys 8x Medical Supplies at Build Storage (ESS-569) for 32.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 688,
+        "ware": "siliconwafers",
+        "time": 262797.79791795,
+        "money": -92880,
+        "passedtime": "14m 26s",
+        "price": 135,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (JRN-032)",
+        "entryid": 51091,
+        "description": "CSS-1 Corellian Star Shuttle (JRN-032) buys 688x Silicon Wafers at NRL Silicon Refinery I (DLH-616) for 135.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 688,
+        "ware": "antimattercells",
+        "time": 262797.44287105,
+        "money": -206400,
+        "passedtime": "14m 27s",
+        "price": 300,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (CVS-726)",
+        "entryid": 51089,
+        "description": "CSS-1 Corellian Star Shuttle (CVS-726) buys 688x Tibanna Cells at NRL Tibanna Refinery I (KUI-713) for 300.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 262797.18028595,
+        "money": -153016,
+        "passedtime": "14m 27s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (MYF-015)",
+        "entryid": 51087,
+        "description": "CSS-1 Corellian Star Shuttle (MYF-015) buys 826x Field Coils at CSA Field Coil Factory I (AJI-684) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 8,
+        "ware": "medicalsupplies",
+        "time": 262797.18028595,
+        "money": -258,
+        "passedtime": "14m 27s",
+        "price": 32.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (WVZ-186)",
+        "entryid": 51083,
+        "description": "CSS-1 Corellian Star Shuttle (WVZ-186) buys 8x Medical Supplies at Build Storage (ESS-569) for 32.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 688,
+        "ware": "siliconwafers",
+        "time": 262797.18028595,
+        "money": -92880,
+        "passedtime": "14m 27s",
+        "price": 135,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (ZVD-651)",
+        "entryid": 51085,
+        "description": "CSS-1 Corellian Star Shuttle (ZVD-651) buys 688x Silicon Wafers at NRL Refined Goods Complex I (HIB-124) for 135.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 262797.11698675,
+        "money": -153016,
+        "passedtime": "14m 27s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (IDE-424)",
+        "entryid": 51081,
+        "description": "CSS-1 Corellian Star Shuttle (IDE-424) buys 826x Field Coils at NRL Field Coil Factory I (JZG-822) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262797.08739365,
+        "money": 201514,
+        "passedtime": "14m 27s",
+        "price": 0,
+        "eventtypename": "Profit from Trade Orders",
+        "partnername": "CSS-1 Corellian Star Shuttle (GMW-710)",
+        "entryid": 51079,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 8,
+        "ware": "medicalsupplies",
+        "time": 262796.93034375,
+        "money": -258,
+        "passedtime": "14m 27s",
+        "price": 32.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (NZE-783)",
+        "entryid": 51077,
+        "description": "CSS-1 Corellian Star Shuttle (NZE-783) buys 8x Medical Supplies at Build Storage (ESS-569) for 32.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 688,
+        "ware": "siliconwafers",
+        "time": 262795.88923675,
+        "money": -92880,
+        "passedtime": "14m 28s",
+        "price": 135,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (UYA-369)",
+        "entryid": 51074,
+        "description": "CSS-1 Corellian Star Shuttle (UYA-369) buys 688x Silicon Wafers at CSA Silicon Refinery III (HTW-001) for 135.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 262795.28354385,
+        "money": -153016,
+        "passedtime": "14m 29s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (YIC-946)",
+        "entryid": 51072,
+        "description": "CSS-1 Corellian Star Shuttle (YIC-946) buys 826x Field Coils at CSA Field Coil Factory I (AJI-684) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 262794.23880525,
+        "money": -153016,
+        "passedtime": "14m 30s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (TEH-480)",
+        "entryid": 51069,
+        "description": "CSS-1 Corellian Star Shuttle (TEH-480) buys 826x Field Coils at CSA Field Coil Factory I (AJI-684) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 885,
+        "ware": "refinedmetals",
+        "time": 262793.82383915,
+        "money": -59941,
+        "passedtime": "14m 30s",
+        "price": 67.73,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (BQL-402)",
+        "entryid": 51067,
+        "description": "CSS-1 Corellian Star Shuttle (BQL-402) buys 885x Refined Metals at NRL Refined Goods Complex I (HIB-124) for 67.73 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262781.26937866,
+        "money": 712,
+        "passedtime": "14m 43s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (DSG-054)",
+        "entryid": 51058,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 8,
+        "ware": "medicalsupplies",
+        "time": 262775.50446046,
+        "money": -258,
+        "passedtime": "14m 49s",
+        "price": 32.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle Lead (UBC-786)",
+        "entryid": 51053,
+        "description": "CSS-1 Corellian Star Shuttle Lead (UBC-786) buys 8x Medical Supplies at Build Storage (ESS-569) for 32.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 262759.27907386,
+        "money": -153016,
+        "passedtime": "15m 05s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (GRT-982)",
+        "entryid": 51047,
+        "description": "CSS-1 Corellian Star Shuttle (GRT-982) buys 826x Field Coils at NRL Field Coil Factory I (JZG-822) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 688,
+        "ware": "siliconwafers",
+        "time": 262749.45587146,
+        "money": -92880,
+        "passedtime": "15m 15s",
+        "price": 135,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (CLC-549)",
+        "entryid": 51042,
+        "description": "CSS-1 Corellian Star Shuttle (CLC-549) buys 688x Silicon Wafers at CSA Refined Goods Complex II (VLL-618) for 135.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 262746.73970566,
+        "money": -153016,
+        "passedtime": "15m 18s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (RWH-620)",
+        "entryid": 51036,
+        "description": "CSS-1 Corellian Star Shuttle (RWH-620) buys 826x Field Coils at NRL Field Coil Factory I (TUY-312) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262745.14666786,
+        "money": 263311,
+        "passedtime": "15m 19s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (NRS-093)",
+        "entryid": 51033,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262736.01957526,
+        "money": 712,
+        "passedtime": "15m 28s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (AVQ-055)",
+        "entryid": 51028,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 563,
+        "ware": "microchips",
+        "time": 262729.31753806,
+        "money": -413101,
+        "passedtime": "15m 35s",
+        "price": 733.75,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (SML-791)",
+        "entryid": 51021,
+        "description": "CSS-1 Corellian Star Shuttle (SML-791) buys 563x Microchips at CSA Microchip Factory I (IVB-663) for 733.75 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 826,
+        "ware": "fieldcoils",
+        "time": 262715.20489786,
+        "money": -153016,
+        "passedtime": "15m 49s",
+        "price": 185.25,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (BHW-288)",
+        "entryid": 51014,
+        "description": "CSS-1 Corellian Star Shuttle (BHW-288) buys 826x Field Coils at NRL Field Coil Factory I (IKG-731) for 185.25 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262692.21005506,
+        "money": 477708,
+        "passedtime": "16m 12s",
+        "price": 0,
+        "eventtypename": "Profit from Trade Orders",
+        "partnername": "AA-9 Ore Miner (SYB-993)",
+        "entryid": 51000,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 270,
+        "ware": "claytronics",
+        "time": 262667.70636226,
+        "money": -426870,
+        "passedtime": "16m 37s",
+        "price": 1581,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle Lead (GDP-492)",
+        "entryid": 50987,
+        "description": "CSS-1 Corellian Star Shuttle Lead (GDP-492) buys 270x Module PreFab at CSA Module PreFab Factory I (SPZ-086) for 1,581.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262652.09553946,
+        "money": 517745,
+        "passedtime": "16m 52s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (ZVH-805)",
+        "entryid": 50978,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262620.21619486,
+        "money": 265801,
+        "passedtime": "17m 24s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (JWV-934)",
+        "entryid": 50971,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262612.89440326,
+        "money": 712,
+        "passedtime": "17m 31s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (MBC-339)",
+        "entryid": 50966,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 270,
+        "ware": "claytronics",
+        "time": 262607.11679026,
+        "money": -426870,
+        "passedtime": "17m 37s",
+        "price": 1581,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (ICF-399)",
+        "entryid": 50960,
+        "description": "CSS-1 Corellian Star Shuttle (ICF-399) buys 270x Module PreFab at Build Storage (EQE-568) for 1,581.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262606.00484146,
+        "money": 280976,
+        "passedtime": "17m 38s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (MCX-199)",
+        "entryid": 50958,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 270,
+        "ware": "claytronics",
+        "time": 262588.91234446,
+        "money": -426870,
+        "passedtime": "17m 55s",
+        "price": 1581,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (TZA-267)",
+        "entryid": 50954,
+        "description": "CSS-1 Corellian Star Shuttle (TZA-267) buys 270x Module PreFab at CSA Module PreFab Factory I (OOU-695) for 1,581.00 Cr",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262584.84054946,
+        "money": 270184,
+        "passedtime": "17m 59s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (YWC-506)",
+        "entryid": 50952,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262576.34336146,
+        "money": 339486,
+        "passedtime": "18m 08s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (ZYA-390)",
+        "entryid": 50945,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262576.34336146,
+        "money": 712,
+        "passedtime": "18m 08s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (WVZ-186)",
+        "entryid": 50947,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262571.16024826,
+        "money": 712,
+        "passedtime": "18m 13s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (NZE-783)",
+        "entryid": 50942,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 0,
+        "ware": "",
+        "time": 262549.05338686,
+        "money": 264976,
+        "passedtime": "18m 35s",
+        "price": 0,
+        "eventtypename": "Transfer",
+        "partnername": "CSS-1 Corellian Star Shuttle (JRN-032)",
+        "entryid": 50936,
+        "description": "",
+        "destroyedpartner": false
+      },
+      {
+        "amount": 688,
+        "ware": "siliconwafers",
+        "time": 262544.46129226,
+        "money": -92880,
+        "passedtime": "18m 40s",
+        "price": 135,
+        "eventtypename": "Trade Order",
+        "partnername": "CSS-1 Corellian Star Shuttle (QME-052)",
+        "entryid": 50932,
+        "description": "CSS-1 Corellian Star Shuttle (QME-052) buys 688x Silicon Wafers at CSA Silicon Refinery II (OKF-410) for 135.00 Cr",
+        "destroyedpartner": false
+      }
+    ],
+    "missionOffers": {
+      "plot": [],
+      "other": [],
+      "coalition": [
+        {
+          "reward": 0,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 3,
+          "description": "Escort CSA Cargo Ship LAAT/c (JLC-594) as they complete their duties.<br /><br />We will assign targets to you when your targeting computer is free. Engagements against factions that are outside the scope of our mission will be ignored.<br /><br />To complete the mission, ensure that CSA Cargo Ship LAAT/c (JLC-594) completes all their trade orders. New trade orders that they receive during the mission may extend the mission duration. The mission will end early when CSA Cargo Ship LAAT/c (JLC-594) is left with no escort for more than 5 minutes.<br /><br />You will be rewarded for each trade they complete, adjusted by the sectors they traversed, the amount of time that your ships were in escort (while within 100km), and for enemies that your ships engage.<br /><br />Failure condition is: when CSA Cargo Ship LAAT/c (JLC-594) fail to complete any trade.<br /><br />Current trade mission: Buy Food Rations from Dellalt.<br /><br />(Note that CSA Cargo Ship LAAT/c (JLC-594) can travel up to 7319 m/s.)",
+          "ID": "269075914ULL",
+          "factionname": "Corporate Sector Authority",
+          "oppfaction": "",
+          "type": "escort",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Escort CSA Cargo Ship LAAT/c",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        },
+        {
+          "reward": 0,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 3,
+          "description": "Escort CSA High-Tech Trader T-6 Shuttle (BRC-565) as they complete their duties.<br /><br />We will assign targets to you when your targeting computer is free. Engagements against factions that are outside the scope of our mission will be ignored.<br /><br />To complete the mission, ensure that CSA High-Tech Trader T-6 Shuttle (BRC-565) completes all their trade orders. New trade orders that they receive during the mission may extend the mission duration. The mission will end early when CSA High-Tech Trader T-6 Shuttle (BRC-565) is left with no escort for more than 5 minutes.<br /><br />You will be rewarded for each trade they complete, adjusted by the sectors they traversed, the amount of time that your ships were in escort (while within 100km), and for enemies that your ships engage.<br /><br />Failure condition is: when CSA High-Tech Trader T-6 Shuttle (BRC-565) fail to complete any trade.<br /><br />Current trade mission: Buy Food Rations from Dellalt.<br /><br />(Note that CSA High-Tech Trader T-6 Shuttle (BRC-565) can travel up to 6974 m/s.)",
+          "ID": "268904708ULL",
+          "factionname": "Corporate Sector Authority",
+          "oppfaction": "",
+          "type": "escort",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Escort CSA High-Tech Trader T-6 Shuttle",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        },
+        {
+          "reward": 0,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 3,
+          "description": "Escort TAG Agricultural Trader VCX-100 (SPT-443) as they complete their duties.<br /><br />We will assign targets to you when your targeting computer is free. Engagements against factions that are outside the scope of our mission will be ignored.<br /><br />To complete the mission, ensure that TAG Agricultural Trader VCX-100 (SPT-443) completes all their trade orders. New trade orders that they receive during the mission may extend the mission duration. The mission will end early when TAG Agricultural Trader VCX-100 (SPT-443) is left with no escort for more than 5 minutes.<br /><br />You will be rewarded for each trade they complete, adjusted by the sectors they traversed, the amount of time that your ships were in escort (while within 100km), and for enemies that your ships engage.<br /><br />Failure condition is: when TAG Agricultural Trader VCX-100 (SPT-443) fail to complete any trade.<br /><br />Current trade mission: Sell Spices to Jabiim.<br /><br />(Note that TAG Agricultural Trader VCX-100 (SPT-443) can travel up to 7371 m/s.)",
+          "ID": "202262603ULL",
+          "factionname": "Tagge Corporation",
+          "oppfaction": "",
+          "type": "escort",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Escort TAG Agricultural Trader VCX-100",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        },
+        {
+          "reward": 0,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 3,
+          "description": "Escort TAG Mineral Miner C-K Solid (FYI-391) as they complete their duties.<br /><br />We will assign targets to you when your targeting computer is free. Engagements against factions that are outside the scope of our mission will be ignored.<br /><br />To complete the mission, ensure that TAG Mineral Miner C-K Solid (FYI-391) completes all their trade orders. New trade orders that they receive during the mission may extend the mission duration. The mission will end early when TAG Mineral Miner C-K Solid (FYI-391) is left with no escort for more than 5 minutes.<br /><br />You will be rewarded for each trade they complete, adjusted by the sectors they traversed, the amount of time that your ships were in escort (while within 100km), and for enemies that your ships engage.<br /><br />Failure condition is: when TAG Mineral Miner C-K Solid (FYI-391) fail to complete any trade.<br /><br />Current mining mission: Deliver Ice to Nimban.<br /><br />(Note that TAG Mineral Miner C-K Solid (FYI-391) can travel up to 5278 m/s.)",
+          "ID": "269284779ULL",
+          "factionname": "Tagge Corporation",
+          "oppfaction": "",
+          "type": "escort",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Escort TAG Mineral Miner C-K Solid",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        },
+        {
+          "reward": 0,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 3,
+          "description": "Escort TAG Universal Trader Theta Shuttle (BIG-648) as they complete their duties.<br /><br />We will assign targets to you when your targeting computer is free. Engagements against factions that are outside the scope of our mission will be ignored.<br /><br />To complete the mission, ensure that TAG Universal Trader Theta Shuttle (BIG-648) completes all their trade orders. New trade orders that they receive during the mission may extend the mission duration. The mission will end early when TAG Universal Trader Theta Shuttle (BIG-648) is left with no escort for more than 5 minutes.<br /><br />You will be rewarded for each trade they complete, adjusted by the sectors they traversed, the amount of time that your ships were in escort (while within 100km), and for enemies that your ships engage.<br /><br />Failure condition is: when TAG Universal Trader Theta Shuttle (BIG-648) fail to complete any trade.<br /><br />Current trade mission: Sell Plasma Conductors to Felucia.<br /><br />(Note that TAG Universal Trader Theta Shuttle (BIG-648) can travel up to 6195 m/s.)",
+          "ID": "269150341ULL",
+          "factionname": "Tagge Corporation",
+          "oppfaction": "",
+          "type": "escort",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Escort TAG Universal Trader Theta Shuttle",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        },
+        {
+          "reward": 0,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 3,
+          "description": "Escort TFD Agricultural Trader BFF-1 (THS-398) as they complete their duties.<br /><br />We will assign targets to you when your targeting computer is free. Engagements against factions that are outside the scope of our mission will be ignored.<br /><br />To complete the mission, ensure that TFD Agricultural Trader BFF-1 (THS-398) completes all their trade orders. New trade orders that they receive during the mission may extend the mission duration. The mission will end early when TFD Agricultural Trader BFF-1 (THS-398) is left with no escort for more than 5 minutes.<br /><br />You will be rewarded for each trade they complete, adjusted by the sectors they traversed, the amount of time that your ships were in escort (while within 100km), and for enemies that your ships engage.<br /><br />Failure condition is: when TFD Agricultural Trader BFF-1 (THS-398) fail to complete any trade.<br /><br />Current trade mission: Sell Spices to Teth.<br /><br />(Note that TFD Agricultural Trader BFF-1 (THS-398) can travel up to 3991 m/s.)",
+          "ID": "168967410ULL",
+          "factionname": "Trade Federation",
+          "oppfaction": "",
+          "type": "escort",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Escort TFD Agricultural Trader BFF-1",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        },
+        {
+          "reward": 0,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 3,
+          "description": "Escort TFD Universal Trader BFF-1 (GMU-597) as they complete their duties.<br /><br />We will assign targets to you when your targeting computer is free. Engagements against factions that are outside the scope of our mission will be ignored.<br /><br />To complete the mission, ensure that TFD Universal Trader BFF-1 (GMU-597) completes all their trade orders. New trade orders that they receive during the mission may extend the mission duration. The mission will end early when TFD Universal Trader BFF-1 (GMU-597) is left with no escort for more than 5 minutes.<br /><br />You will be rewarded for each trade they complete, adjusted by the sectors they traversed, the amount of time that your ships were in escort (while within 100km), and for enemies that your ships engage.<br /><br />Failure condition is: when TFD Universal Trader BFF-1 (GMU-597) fail to complete any trade.<br /><br />Current trade mission: Buy Capacitors from Scarif.<br /><br />(Note that TFD Universal Trader BFF-1 (GMU-597) can travel up to 3991 m/s.)",
+          "ID": "269157900ULL",
+          "factionname": "Trade Federation",
+          "oppfaction": "",
+          "type": "escort",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Escort TFD Universal Trader BFF-1",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        },
+        {
+          "reward": 0,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 3,
+          "description": "Escort TFD Universal Trader YV-666 (RSW-231) as they complete their duties.<br /><br />We will assign targets to you when your targeting computer is free. Engagements against factions that are outside the scope of our mission will be ignored.<br /><br />To complete the mission, ensure that TFD Universal Trader YV-666 (RSW-231) completes all their trade orders. New trade orders that they receive during the mission may extend the mission duration. The mission will end early when TFD Universal Trader YV-666 (RSW-231) is left with no escort for more than 5 minutes.<br /><br />You will be rewarded for each trade they complete, adjusted by the sectors they traversed, the amount of time that your ships were in escort (while within 100km), and for enemies that your ships engage.<br /><br />Failure condition is: when TFD Universal Trader YV-666 (RSW-231) fail to complete any trade.<br /><br />Current trade mission: Sell Capacitors to Jabiim.<br /><br />(Note that TFD Universal Trader YV-666 (RSW-231) can travel up to 6128 m/s.)",
+          "ID": "269268173ULL",
+          "factionname": "Trade Federation",
+          "oppfaction": "",
+          "type": "escort",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Escort TFD Universal Trader YV-666",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        },
+        {
+          "reward": 68290,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 2,
+          "description": "I need a fast ship and a good pilot to get me away from this station as quickly as possible. Doesn't really matter where I end up, as long as no one finds me before I get there! Can I count on your help? If so, land at the station and meet me on the dock area. I'll wait for you there. Will you help me?",
+          "ID": "268944366ULL",
+          "factionname": "Corporate Sector Authority",
+          "oppfaction": "",
+          "type": "transport",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Fast Flight",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        },
+        {
+          "reward": 48920,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 2,
+          "description": "We don't know whether it was one of our competitors or pirates, but someone has detonated a number of EMPs across our properties and we are hiring people to help us fix the leaks they've caused. We're spreading out the work so that no one person must fix all leaks. If you accept the job, we'll assign you to: 1x properties.",
+          "ID": "201908688ULL",
+          "factionname": "Corporate Sector Authority",
+          "oppfaction": "",
+          "type": "repair",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Leak Fix Contract",
+          "activebriefingstep": 0,
+          "rewardtext": "Durasteel Frame",
+          "threadtype": ""
+        },
+        {
+          "reward": 826920,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 4,
+          "description": "This is a general call for anyone looking for excitement and adventure, and the opportunity to serve as part of a great military body. We are looking for fit and healthy marines that are willing to help us in any of our boarding operations. Each should be trained as described below and brought or make their way to the following location.<br />Seeking: 1x Marine(s)<br />Delivery location: CSA Spice Farm I (SZT-041)<br />We are looking for experienced people. Required skills: <br />Boarding: [menu_star_04][menu_star_04][menu_star_01][menu_star_01][menu_star_01]<br />Morale: [menu_star_04][menu_star_01][menu_star_01][menu_star_01][menu_star_01]",
+          "ID": "169715904ULL",
+          "factionname": "Corporate Sector Authority",
+          "oppfaction": "",
+          "type": "transport",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Marines Needed",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        },
+        {
+          "reward": 0,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 5,
+          "description": "With so much conflict around the Jump Gate network, we feel it is only a matter of time before this area of space sees major conflict, and would like to be prepared for this scenario. We request that a defensive platform station be built in the sector specified to help us deter threats from our space. The facility must fit the following specifications.<br /><br />Destination: Dellalt (at specified location)<br />Minimum plot size: 5 x 6 x 5 km<br />Required constructs: 3 x Defence Modules, 1 x Dock Area, 1 x Pier, 1 x Wide Area Sensor Array, 16 x Turrets, 6 x Shield Generators<br /><br />Estimated minimum build cost: 9,009,000 Cr<br /><br />To be a valid Defence Station, one of the Defence Modules must be an Administrative Centre.<br /><br />Expenses will be covered generously, within reason.",
+          "ID": "268872952ULL",
+          "factionname": "Corporate Sector Authority",
+          "oppfaction": "",
+          "type": "build",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Pre-emptive Defences",
+          "activebriefingstep": 0,
+          "rewardtext": "Station value + 50% (max: 18,017,999 Cr)",
+          "threadtype": ""
+        },
+        {
+          "reward": 77810,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 3,
+          "description": "Once again, our main competitor has proved what low depths they'll reach to in order to gain an advantage, placing explosive mines around one of our supplier station in order to push us out of the market. We're looking for someone who can safely and swiftly dismantle the mines on our behalf.",
+          "ID": "268809585ULL",
+          "factionname": "Corporate Sector Authority",
+          "oppfaction": "sith",
+          "type": "destroy",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Steady Trigger Finger Required",
+          "activebriefingstep": 0,
+          "rewardtext": "Seminar for 1-Star Crew (Piloting)",
+          "threadtype": ""
+        },
+        {
+          "reward": 0,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 4,
+          "description": "Support CSA Star Destroyer Venator (PHE-738) on their patrol of Boonta for at least 20 minutes.<br /><br />Your priority is to patrol the sector - whether with the mission guidance or on your own.<br /><br />We will assign targets to you when your targeting computer is free. These are optional targets and you are allowed to ignore them or engage other targets on your own. However, except for attacks against criminals, engagements against factions that we have not targeted will be ignored.<br /><br />The mission completes when CSA Star Destroyer Venator (PHE-738) completes their orders or when no enemy targets are found after 20 minutes. New combat orders that they receive during the mission may extend the mission. Escort and kill rewards continue to accumulate past 20 minutes. You can request an early release from the mission.<br /><br />You will be rewarded for enemies that your ships engage plus a bonus if CSA Star Destroyer Venator (PHE-738) survives.<br /><br />The mission will end early if you have no ships in the mission sector for more than 5 minutes.<br /><br />(Note that CSA Star Destroyer Venator (PHE-738) can travel up to 10511 m/s.)",
+          "ID": "235726299ULL",
+          "factionname": "Corporate Sector Authority",
+          "oppfaction": "",
+          "type": "fight",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Support Corporate Sector Authority patrol: Boonta",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        },
+        {
+          "reward": 0,
+          "missionGroup": {
+            "name": "",
+            "id": ""
+          },
+          "difficulty": 4,
+          "description": "Support CSA Patrol Proclamator (ETE-086) on their patrol of Kubindi for at least 20 minutes.<br /><br />Your priority is to patrol the sector - whether with the mission guidance or on your own.<br /><br />We will assign targets to you when your targeting computer is free. These are optional targets and you are allowed to ignore them or engage other targets on your own. However, except for attacks against criminals, engagements against factions that we have not targeted will be ignored.<br /><br />The mission completes when CSA Patrol Proclamator (ETE-086) completes their orders or when no enemy targets are found after 20 minutes. New combat orders that they receive during the mission may extend the mission. Escort and kill rewards continue to accumulate past 20 minutes. You can request an early release from the mission.<br /><br />You will be rewarded for enemies that your ships engage plus a bonus if CSA Patrol Proclamator (ETE-086) survives.<br /><br />The mission will end early if you have no ships in the mission sector for more than 5 minutes.<br /><br />(Note that CSA Patrol Proclamator (ETE-086) can travel up to 10229 m/s.)",
+          "ID": "235119599ULL",
+          "factionname": "Corporate Sector Authority",
+          "oppfaction": "",
+          "type": "fight",
+          "subMissions": [],
+          "missiontime": -1,
+          "name": "Support Corporate Sector Authority patrol: Kubindi",
+          "activebriefingstep": 0,
+          "rewardtext": "",
+          "threadtype": ""
+        }
+      ],
+      "guild": [
+        {
+          "name": "New Republic vs Mandalorian Deathwatch War",
+          "missions": [
+            {
+              "reward": 0,
+              "missionGroup": {
+                "name": "New Republic vs Mandalorian Deathwatch War",
+                "id": "newrepublic_vs_mandodw"
+              },
+              "difficulty": 1,
+              "description": "Due to our close proximity to Mandalorian Death Watch space, we are looking for volunteers help secure our borders as well as repel any Mandalorian Death Watch incursions. We have a wide variety of tasks to assign so whatever your skills do not hesitate to sign up!",
+              "ID": "33592208ULL",
+              "factionname": "New Republic",
+              "oppfaction": "",
+              "type": "fight",
+              "subMissions": [],
+              "missiontime": -1,
+              "name": "New Republic vs Mandalorian Deathwatch War",
+              "activebriefingstep": 0,
+              "rewardtext": "",
+              "threadtype": ""
+            }
+          ],
+          "id": "newrepublic_vs_mandodw"
+        },
+        {
+          "name": "The New Republic Vs. The Imperial Ascendancy",
+          "missions": [
+            {
+              "reward": 0,
+              "missionGroup": {
+                "name": "The New Republic Vs. The Imperial Ascendancy",
+                "id": "newrepublic_vs_ascendancy"
+              },
+              "difficulty": 1,
+              "description": "Due to our close proximity to Imperial Ascendancy space, we are looking for volunteers help secure our borders as well as repel any Imperial Ascendancy incursions. We have a wide variety of tasks to assign so whatever your skills do not hesitate to sign up!",
+              "ID": "33592050ULL",
+              "factionname": "New Republic",
+              "oppfaction": "",
+              "type": "fight",
+              "subMissions": [],
+              "missiontime": -1,
+              "name": "The New Republic Vs. The Imperial Ascendancy",
+              "activebriefingstep": 0,
+              "rewardtext": "",
+              "threadtype": ""
+            }
+          ],
+          "id": "newrepublic_vs_ascendancy"
+        },
+        {
+          "name": "The New Republic vs the Galactic Empire War",
+          "missions": [
+            {
+              "reward": 0,
+              "missionGroup": {
+                "name": "The New Republic vs the Galactic Empire War",
+                "id": "newrepublic_vs_galempire"
+              },
+              "difficulty": 1,
+              "description": "Due to our close proximity to Galactic Empire space, we are looking for volunteers help secure our borders as well as repel any Galactic Empire incursions. We have a wide variety of tasks to assign so whatever your skills do not hesitate to sign up!",
+              "ID": "33591948ULL",
+              "factionname": "New Republic",
+              "oppfaction": "",
+              "type": "fight",
+              "subMissions": [],
+              "missiontime": -1,
+              "name": "The New Republic vs the Galactic Empire War",
+              "activebriefingstep": 0,
+              "rewardtext": "",
+              "threadtype": ""
+            }
+          ],
+          "id": "newrepublic_vs_galempire"
+        }
+      ]
+    },
+    "logbook": [
+      {
+        "time": 263663.39276471,
+        "factionname": "",
+        "bonus": 49532,
+        "passedtime": "0m 01s",
+        "text": "Queuing up trade order for 14 Rhydonium Core. Buying at 11071 to sell at 14609. I should earn 49532 in profit.<br />Total estimated lifetime profit before this trade: 7,298,741.",
+        "highlighted": false,
+        "money": -154994,
+        "title": "DeadTater: LAAT/c ( KUW-026 )"
+      },
+      {
+        "time": 263658.42587951,
+        "factionname": "Corporate Sector Authority",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "CSS-1 Corellian Star Shuttle Lead GDP-492 in Telos<br />Ordered by Corporate Sector Authority police to stop and be inspected.<br />Response: Comply",
+        "money": 0,
+        "passedtime": "0m 06s",
+        "title": "Police Interdiction"
+      },
+      {
+        "time": 263648.05972571,
+        "factionname": "Corporate Sector Authority",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Harbor-class YCN-531 in Cantonica<br />Ordered by Corporate Sector Authority police to stop and be inspected.<br />Response: Comply",
+        "money": 0,
+        "passedtime": "0m 16s",
+        "title": "Police Interdiction"
+      },
+      {
+        "time": 263632.00195031,
+        "factionname": "New Republic",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "GR-500 Miner OJA-251 in Brentaal<br />Ordered by New Republic police to stop and be inspected.<br />Response: Comply",
+        "money": 0,
+        "passedtime": "0m 32s",
+        "title": "Police Interdiction"
+      },
+      {
+        "time": 263624.04614711,
+        "factionname": "",
+        "bonus": 0,
+        "passedtime": "0m 40s",
+        "text": "",
+        "highlighted": false,
+        "money": 0,
+        "title": "The account for Coruscant Base Level Processing Plant in Coruscant has dropped to 32,733,048 Credits."
+      },
+      {
+        "time": 263621.22994931,
+        "factionname": "",
+        "bonus": 368,
+        "passedtime": "0m 43s",
+        "text": "Queuing up trade order for 8 Medical Supplies. Buying at 43 to sell at 89. I should earn 368 in profit.<br />Total estimated lifetime profit before this trade: 32,517,646.",
+        "highlighted": false,
+        "money": -344,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( HYN-618 )"
+      },
+      {
+        "time": 263593.92288191,
+        "factionname": "",
+        "bonus": 201252,
+        "passedtime": "1m 10s",
+        "text": "Queuing up trade order for 62 Rhydonium Core. Buying at 11303 to sell at 14549. I should earn 201252 in profit.<br />Total estimated lifetime profit before this trade: 18,259,291.",
+        "highlighted": false,
+        "money": -700786,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( YVM-438 )"
+      },
+      {
+        "time": 263592.37743971,
+        "factionname": "",
+        "bonus": 280976,
+        "passedtime": "1m 12s",
+        "text": "Queuing up station ware sale for 1033 Durasteel Plates from Lothal High Tech Factory III to sell at 272. I should earn 280976 in profit.",
+        "highlighted": false,
+        "money": 0,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( MCX-199 )"
+      },
+      {
+        "time": 263572.46026631,
+        "factionname": "New Republic",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "CSS-1 Corellian Star Shuttle MCT-423 in Kuat<br />Ordered by New Republic police to stop and be inspected.<br />Response: Comply",
+        "money": 0,
+        "passedtime": "1m 32s",
+        "title": "Police Interdiction"
+      },
+      {
+        "time": 263557.78560971,
+        "factionname": "",
+        "bonus": 121045,
+        "passedtime": "1m 46s",
+        "text": "Queuing up trade order for 563 Microchips. Buying at 805 to sell at 1020. I should earn 121045 in profit.<br />Total estimated lifetime profit before this trade: 32,815,983.",
+        "highlighted": false,
+        "money": -453215,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( JWV-934 )"
+      },
+      {
+        "time": 263554.14269171,
+        "factionname": "Kuat Drive Yards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 2",
+        "money": 0,
+        "passedtime": "1m 50s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 263546.93187791,
+        "factionname": "",
+        "bonus": 295708,
+        "passedtime": "1m 57s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 605. I should earn 295708 in profit.<br />Total estimated lifetime profit before this trade: 15,827,913.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( CQC-574 )"
+      },
+      {
+        "time": 263529.23592311,
+        "factionname": "",
+        "bonus": 291578,
+        "passedtime": "2m 15s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 600. I should earn 291578 in profit.<br />Total estimated lifetime profit before this trade: 11,920,982.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( RTE-142 )"
+      },
+      {
+        "time": 263481.65757551,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "3m 03s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 263459.01420671,
+        "factionname": "",
+        "bonus": 1408,
+        "passedtime": "3m 25s",
+        "text": "Queuing up trade order for 32 Medical Supplies. Buying at 45 to sell at 89. I should earn 1408 in profit.<br />Total estimated lifetime profit before this trade: 31,564,142.",
+        "highlighted": false,
+        "money": -1440,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( DDB-642 )"
+      },
+      {
+        "time": 263459.01420671,
+        "factionname": "",
+        "bonus": 219418,
+        "passedtime": "3m 25s",
+        "text": "Queuing up trade order for 62 Rhydonium Core. Buying at 11071 to sell at 14610. I should earn 219418 in profit.<br />Total estimated lifetime profit before this trade: 15,746,333.",
+        "highlighted": false,
+        "money": -686402,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( TZA-267 )"
+      },
+      {
+        "time": 263392.60729631,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "4m 32s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 263376.42549491,
+        "factionname": "Kuat Drive Yards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 2",
+        "money": 0,
+        "passedtime": "4m 48s",
+        "title": "Reputation gained: +1"
+      },
+      {
+        "time": 263345.89621391,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "5m 18s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 263332.65820271,
+        "factionname": "",
+        "bonus": 294882,
+        "passedtime": "5m 32s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 604. I should earn 294882 in profit.<br />Total estimated lifetime profit before this trade: 16,726,441.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( DJI-588 )"
+      },
+      {
+        "time": 263324.21741471,
+        "factionname": "Kuat Drive Yards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 1",
+        "money": 0,
+        "passedtime": "5m 40s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 263289.38790551,
+        "factionname": "Kuat Drive Yards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 1",
+        "money": 0,
+        "passedtime": "6m 15s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 263269.62819431,
+        "factionname": "",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Increased Corporate Sector Authority reconnaissance in Eadu",
+        "money": 0,
+        "passedtime": "6m 35s",
+        "title": "War update: "
+      },
+      {
+        "time": 263269.62819431,
+        "factionname": "Kuat Drive Yards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 1",
+        "money": 0,
+        "passedtime": "6m 35s",
+        "title": "Reputation gained: +1"
+      },
+      {
+        "time": 263261.80474451,
+        "factionname": "",
+        "bonus": 157380,
+        "passedtime": "6m 42s",
+        "text": "Queuing up trade order for 516 Module PreFab. Buying at 1734 to sell at 2039. I should earn 157380 in profit.<br />Total estimated lifetime profit before this trade: 30,952,300.",
+        "highlighted": false,
+        "money": -894744,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( KWE-242 )"
+      },
+      {
+        "time": 263243.19493091,
+        "factionname": "",
+        "bonus": 132096,
+        "passedtime": "7m 01s",
+        "text": "Queuing up trade order for 688 Silicon Wafers. Buying at 180 to sell at 372. I should earn 132096 in profit.<br />Total estimated lifetime profit before this trade: 31,966,266.",
+        "highlighted": false,
+        "money": -123840,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( QQB-480 )"
+      },
+      {
+        "time": 263193.36042311,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "7m 51s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 263149.92180131,
+        "factionname": "",
+        "bonus": 550530,
+        "passedtime": "8m 34s",
+        "text": "Selling 270 Module PreFab from cargo at 2039. I should earn 550530 in profit.",
+        "highlighted": false,
+        "money": 0,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( ICF-399 )"
+      },
+      {
+        "time": 263110.03175171,
+        "factionname": "",
+        "bonus": 297360,
+        "passedtime": "9m 14s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 607. I should earn 297360 in profit.<br />Total estimated lifetime profit before this trade: 17,161,924.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( HXY-728 )"
+      },
+      {
+        "time": 263015.07419411,
+        "factionname": "",
+        "bonus": 0,
+        "passedtime": "10m 49s",
+        "text": "",
+        "highlighted": false,
+        "money": 0,
+        "title": "GR-500 Miner was forced to flee after being attacked by IMP Ship Tech Trader Gozanti Imperial Transport in Brentaal. Your ship is at Empty Space in Uviuy Exen."
+      },
+      {
+        "time": 263015.07419411,
+        "factionname": "",
+        "bonus": 0,
+        "passedtime": "10m 49s",
+        "text": "",
+        "highlighted": false,
+        "money": 0,
+        "title": "The account for Coruscant Base Level Processing Plant in Coruscant has dropped to 31,909,078 Credits."
+      },
+      {
+        "time": 262948.77494951,
+        "factionname": "Mining Guild",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 1",
+        "money": 0,
+        "passedtime": "11m 55s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 262942.42878731,
+        "factionname": "",
+        "bonus": 0,
+        "passedtime": "12m 02s",
+        "text": "",
+        "highlighted": false,
+        "money": 0,
+        "title": "CSS-1 Corellian Star Shuttle was forced to flee after being attacked by MDW High-Tech Trader Stathas Freighter in Telos. Your ship is at Empty Space in Telos."
+      },
+      {
+        "time": 262923.63462311,
+        "factionname": "",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Maintenance was NOT paid in full, we are either out of money or supplies. Supply wares consumed: 0",
+        "money": -4194175,
+        "passedtime": "12m 21s",
+        "title": "Maintenance Report - issues"
+      },
+      {
+        "time": 262899.73979831,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "12m 45s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 262853.32369271,
+        "factionname": "Imperial Ascendancy",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Unauthorised Kill<br />Current reputation: -25",
+        "money": 0,
+        "passedtime": "13m 31s",
+        "title": "Reputation lost"
+      },
+      {
+        "time": 262853.32369271,
+        "factionname": "Imperial Ascendancy",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Unauthorised Kill<br />Current reputation: -25",
+        "money": 0,
+        "passedtime": "13m 31s",
+        "title": "Reputation lost"
+      },
+      {
+        "time": 262835.92634215,
+        "factionname": "",
+        "bonus": 280976,
+        "passedtime": "13m 48s",
+        "text": "Queuing up station ware sale for 1033 Durasteel Plates from Lothal High Tech Factory III to sell at 272. I should earn 280976 in profit.",
+        "highlighted": false,
+        "money": 0,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( NRS-093 )"
+      },
+      {
+        "time": 262831.03075175,
+        "factionname": "",
+        "bonus": 157380,
+        "passedtime": "13m 53s",
+        "text": "Queuing up trade order for 516 Module PreFab. Buying at 1734 to sell at 2039. I should earn 157380 in profit.<br />Total estimated lifetime profit before this trade: 30,165,941.",
+        "highlighted": false,
+        "money": -894744,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( GMW-710 )"
+      },
+      {
+        "time": 262815.30826415,
+        "factionname": "",
+        "bonus": 368,
+        "passedtime": "14m 09s",
+        "text": "Queuing up trade order for 8 Medical Supplies. Buying at 43 to sell at 89. I should earn 368 in profit.<br />Total estimated lifetime profit before this trade: 15,352,440.",
+        "highlighted": false,
+        "money": -344,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( DSG-054 )"
+      },
+      {
+        "time": 262805.67453385,
+        "factionname": "",
+        "bonus": 368,
+        "passedtime": "14m 19s",
+        "text": "Queuing up trade order for 8 Medical Supplies. Buying at 43 to sell at 89. I should earn 368 in profit.<br />Total estimated lifetime profit before this trade: 33,260,516.",
+        "highlighted": false,
+        "money": -344,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( AVQ-055 )"
+      },
+      {
+        "time": 262802.61353285,
+        "factionname": "",
+        "bonus": 311402,
+        "passedtime": "14m 22s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 624. I should earn 311402 in profit.<br />Total estimated lifetime profit before this trade: 16,621,709.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( ZVH-805 )"
+      },
+      {
+        "time": 262800.82622285,
+        "factionname": "",
+        "bonus": 311402,
+        "passedtime": "14m 23s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 624. I should earn 311402 in profit.<br />Total estimated lifetime profit before this trade: 16,368,158.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( ZYA-390 )"
+      },
+      {
+        "time": 262799.46623845,
+        "factionname": "",
+        "bonus": 314706,
+        "passedtime": "14m 25s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 628. I should earn 314706 in profit.<br />Total estimated lifetime profit before this trade: 16,193,030.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( MCT-423 )"
+      },
+      {
+        "time": 262799.44021395,
+        "factionname": "",
+        "bonus": 136912,
+        "passedtime": "14m 25s",
+        "text": "Queuing up trade order for 688 Silicon Wafers. Buying at 180 to sell at 379. I should earn 136912 in profit.<br />Total estimated lifetime profit before this trade: 32,649,294.",
+        "highlighted": false,
+        "money": -123840,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( JWV-934 )"
+      },
+      {
+        "time": 262798.53040165,
+        "factionname": "",
+        "bonus": 138288,
+        "passedtime": "14m 26s",
+        "text": "Queuing up trade order for 688 Silicon Wafers. Buying at 180 to sell at 381. I should earn 138288 in profit.<br />Total estimated lifetime profit before this trade: 31,950,369.",
+        "highlighted": false,
+        "money": -123840,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( YWC-506 )"
+      },
+      {
+        "time": 262798.17569135,
+        "factionname": "",
+        "bonus": 280976,
+        "passedtime": "14m 26s",
+        "text": "Queuing up station ware sale for 1033 Durasteel Plates from Lothal High Tech Factory III to sell at 272. I should earn 280976 in profit.",
+        "highlighted": false,
+        "money": 0,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( MCX-199 )"
+      },
+      {
+        "time": 262798.06642505,
+        "factionname": "",
+        "bonus": 314706,
+        "passedtime": "14m 26s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 628. I should earn 314706 in profit.<br />Total estimated lifetime profit before this trade: 14,654,633.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( VNF-924 )"
+      },
+      {
+        "time": 262797.91802345,
+        "factionname": "",
+        "bonus": 368,
+        "passedtime": "14m 26s",
+        "text": "Queuing up trade order for 8 Medical Supplies. Buying at 43 to sell at 89. I should earn 368 in profit.<br />Total estimated lifetime profit before this trade: 33,000,026.",
+        "highlighted": false,
+        "money": -344,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( MBC-339 )"
+      },
+      {
+        "time": 262797.79791795,
+        "factionname": "",
+        "bonus": 136224,
+        "passedtime": "14m 26s",
+        "text": "Queuing up trade order for 688 Silicon Wafers. Buying at 180 to sell at 378. I should earn 136224 in profit.<br />Total estimated lifetime profit before this trade: 31,234,086.",
+        "highlighted": false,
+        "money": -123840,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( JRN-032 )"
+      },
+      {
+        "time": 262797.44287105,
+        "factionname": "",
+        "bonus": 160992,
+        "passedtime": "14m 27s",
+        "text": "Queuing up trade order for 688 Tibanna Cells. Buying at 350 to sell at 584. I should earn 160992 in profit.<br />Total estimated lifetime profit before this trade: 15,814,538.",
+        "highlighted": false,
+        "money": -240800,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( CVS-726 )"
+      },
+      {
+        "time": 262797.18028595,
+        "factionname": "",
+        "bonus": 135464,
+        "passedtime": "14m 27s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 411. I should earn 135464 in profit.<br />Total estimated lifetime profit before this trade: 33,018,726.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( MYF-015 )"
+      },
+      {
+        "time": 262797.18028595,
+        "factionname": "",
+        "bonus": 136912,
+        "passedtime": "14m 27s",
+        "text": "Queuing up trade order for 688 Silicon Wafers. Buying at 180 to sell at 379. I should earn 136912 in profit.<br />Total estimated lifetime profit before this trade: 28,497,564.",
+        "highlighted": false,
+        "money": -123840,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( ZVD-651 )"
+      },
+      {
+        "time": 262797.18028595,
+        "factionname": "",
+        "bonus": 368,
+        "passedtime": "14m 27s",
+        "text": "Queuing up trade order for 8 Medical Supplies. Buying at 43 to sell at 89. I should earn 368 in profit.<br />Total estimated lifetime profit before this trade: 31,479,192.",
+        "highlighted": false,
+        "money": -344,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( WVZ-186 )"
+      },
+      {
+        "time": 262797.11698675,
+        "factionname": "",
+        "bonus": 313880,
+        "passedtime": "14m 27s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 627. I should earn 313880 in profit.<br />Total estimated lifetime profit before this trade: 16,946,991.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( IDE-424 )"
+      },
+      {
+        "time": 262796.93034375,
+        "factionname": "",
+        "bonus": 368,
+        "passedtime": "14m 27s",
+        "text": "Queuing up trade order for 8 Medical Supplies. Buying at 43 to sell at 89. I should earn 368 in profit.<br />Total estimated lifetime profit before this trade: 32,334,795.",
+        "highlighted": false,
+        "money": -344,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( NZE-783 )"
+      },
+      {
+        "time": 262795.88923675,
+        "factionname": "",
+        "bonus": 138976,
+        "passedtime": "14m 28s",
+        "text": "Queuing up trade order for 688 Silicon Wafers. Buying at 180 to sell at 382. I should earn 138976 in profit.<br />Total estimated lifetime profit before this trade: 34,846,419.",
+        "highlighted": false,
+        "money": -123840,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( UYA-369 )"
+      },
+      {
+        "time": 262795.28354385,
+        "factionname": "",
+        "bonus": 135464,
+        "passedtime": "14m 29s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 411. I should earn 135464 in profit.<br />Total estimated lifetime profit before this trade: 32,974,619.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( YIC-946 )"
+      },
+      {
+        "time": 262795.28354385,
+        "factionname": "",
+        "bonus": 362576,
+        "passedtime": "14m 29s",
+        "text": "Queuing up station ware sale for 1333 Durasteel Plates from Lothal High Tech Factory III to sell at 272. I should earn 362576 in profit.",
+        "highlighted": false,
+        "money": 0,
+        "title": "DeadTater: BFF-1 Bulk Freighter ( UDQ-508 )"
+      },
+      {
+        "time": 262794.23880525,
+        "factionname": "",
+        "bonus": 135464,
+        "passedtime": "14m 30s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 411. I should earn 135464 in profit.<br />Total estimated lifetime profit before this trade: 18,100,152.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( TEH-480 )"
+      },
+      {
+        "time": 262793.82383915,
+        "factionname": "",
+        "bonus": 120360,
+        "passedtime": "14m 30s",
+        "text": "Queuing up trade order for 885 Refined Metals. Buying at 91 to sell at 227. I should earn 120360 in profit.<br />Total estimated lifetime profit before this trade: 16,716,975.",
+        "highlighted": false,
+        "money": -80535,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( BQL-402 )"
+      },
+      {
+        "time": 262775.50446046,
+        "factionname": "",
+        "bonus": 368,
+        "passedtime": "14m 49s",
+        "text": "Queuing up trade order for 8 Medical Supplies. Buying at 43 to sell at 89. I should earn 368 in profit.<br />Total estimated lifetime profit before this trade: 35,941,082.",
+        "highlighted": false,
+        "money": -344,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle Lead ( UBC-786 )"
+      },
+      {
+        "time": 262759.27907386,
+        "factionname": "",
+        "bonus": 313880,
+        "passedtime": "15m 05s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 627. I should earn 313880 in profit.<br />Total estimated lifetime profit before this trade: 17,118,207.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( GRT-982 )"
+      },
+      {
+        "time": 262750.98493666,
+        "factionname": "",
+        "bonus": 0,
+        "passedtime": "15m 13s",
+        "text": "Location: Boonta<br />Commander: <span class='yellow'>[HERO] Resolute (DCX-113)<br />Destroyed by: ASC Star Fighter TIE/es (DNM-298)",
+        "highlighted": true,
+        "money": 0,
+        "title": "ARC-170 Starfighter (SVT-240) was destroyed."
+      },
+      {
+        "time": 262749.45587146,
+        "factionname": "",
+        "bonus": 139664,
+        "passedtime": "15m 15s",
+        "text": "Queuing up trade order for 688 Silicon Wafers. Buying at 180 to sell at 383. I should earn 139664 in profit.<br />Total estimated lifetime profit before this trade: 19,552,250.",
+        "highlighted": false,
+        "money": -123840,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( CLC-549 )"
+      },
+      {
+        "time": 262746.73970566,
+        "factionname": "",
+        "bonus": 313880,
+        "passedtime": "15m 18s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 627. I should earn 313880 in profit.<br />Total estimated lifetime profit before this trade: 13,814,735.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( RWH-620 )"
+      },
+      {
+        "time": 262736.01957526,
+        "factionname": "",
+        "bonus": 0,
+        "passedtime": "15m 28s",
+        "text": "Location: Boonta<br />Commander: <span class='yellow'>[HERO] Resolute (DCX-113)<br />Destroyed by: ASC Star Fighter TIE/es (DNM-298)",
+        "highlighted": true,
+        "money": 0,
+        "title": "ARC-170 Starfighter (VOV-354) was destroyed."
+      },
+      {
+        "time": 262729.31753806,
+        "factionname": "",
+        "bonus": 121045,
+        "passedtime": "15m 35s",
+        "text": "Queuing up trade order for 563 Microchips. Buying at 805 to sell at 1020. I should earn 121045 in profit.<br />Total estimated lifetime profit before this trade: 37,235,231.",
+        "highlighted": false,
+        "money": -453215,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( SML-791 )"
+      },
+      {
+        "time": 262715.20489786,
+        "factionname": "",
+        "bonus": 313880,
+        "passedtime": "15m 49s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 627. I should earn 313880 in profit.<br />Total estimated lifetime profit before this trade: 10,471,353.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( BHW-288 )"
+      },
+      {
+        "time": 262704.43606006,
+        "factionname": "Corporate Sector Authority",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "CSS-1 Corellian Star Shuttle QME-052 in Columex<br />Ordered by Corporate Sector Authority police to stop and be inspected.<br />Response: Comply",
+        "money": 0,
+        "passedtime": "16m 00s",
+        "title": "Police Interdiction"
+      },
+      {
+        "time": 262674.39881206,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "16m 30s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 262667.70636226,
+        "factionname": "",
+        "bonus": 165240,
+        "passedtime": "16m 37s",
+        "text": "Queuing up trade order for 270 Module PreFab. Buying at 1734 to sell at 2346. I should earn 165240 in profit.<br />Total estimated lifetime profit before this trade: 31,623,045.",
+        "highlighted": false,
+        "money": -468180,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle Lead ( GDP-492 )"
+      },
+      {
+        "time": 262652.09553946,
+        "factionname": "Kuat Drive Yards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 0",
+        "money": 0,
+        "passedtime": "16m 52s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 262607.11679026,
+        "factionname": "",
+        "bonus": 165240,
+        "passedtime": "17m 37s",
+        "text": "Queuing up trade order for 270 Module PreFab. Buying at 1734 to sell at 2346. I should earn 165240 in profit.<br />Total estimated lifetime profit before this trade: 30,226,807.",
+        "highlighted": false,
+        "money": -468180,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( ICF-399 )"
+      },
+      {
+        "time": 262606.00484146,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "17m 38s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 262588.91234446,
+        "factionname": "",
+        "bonus": 165240,
+        "passedtime": "17m 55s",
+        "text": "Queuing up trade order for 270 Module PreFab. Buying at 1734 to sell at 2346. I should earn 165240 in profit.<br />Total estimated lifetime profit before this trade: 15,539,783.",
+        "highlighted": false,
+        "money": -468180,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( TZA-267 )"
+      },
+      {
+        "time": 262544.46129226,
+        "factionname": "",
+        "bonus": 138288,
+        "passedtime": "18m 40s",
+        "text": "Queuing up trade order for 688 Silicon Wafers. Buying at 180 to sell at 381. I should earn 138288 in profit.<br />Total estimated lifetime profit before this trade: 15,376,417.",
+        "highlighted": false,
+        "money": -123840,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( QME-052 )"
+      },
+      {
+        "time": 262517.11968646,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "19m 07s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 262514.48834746,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "19m 10s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 262488.23948446,
+        "factionname": "",
+        "bonus": 208506,
+        "passedtime": "19m 36s",
+        "text": "Queuing up trade order for 62 Rhydonium Core. Buying at 11327 to sell at 14690. I should earn 208506 in profit.<br />Total estimated lifetime profit before this trade: 31,631,559.",
+        "highlighted": false,
+        "money": -702274,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( CUF-604 )"
+      },
+      {
+        "time": 262470.50477686,
+        "factionname": "",
+        "bonus": 368,
+        "passedtime": "19m 54s",
+        "text": "Queuing up trade order for 8 Medical Supplies. Buying at 43 to sell at 89. I should earn 368 in profit.<br />Total estimated lifetime profit before this trade: 32,517,192.",
+        "highlighted": false,
+        "money": -344,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( HYN-618 )"
+      },
+      {
+        "time": 262449.28887706,
+        "factionname": "",
+        "bonus": 41730,
+        "passedtime": "20m 15s",
+        "text": "Queuing up trade order for 1070 Medical Supplies. Buying at 43 to sell at 82. I should earn 41730 in profit.<br />Total estimated lifetime profit before this trade: 7,286,746.",
+        "highlighted": false,
+        "money": -46010,
+        "title": "DeadTater: LAAT/c ( KUW-026 )"
+      },
+      {
+        "time": 262411.25669626,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "20m 53s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 262403.43517426,
+        "factionname": "Kuat Drive Yards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 0",
+        "money": 0,
+        "passedtime": "21m 01s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 262401.13855306,
+        "factionname": "",
+        "bonus": 0,
+        "passedtime": "21m 03s",
+        "text": "",
+        "highlighted": false,
+        "money": 0,
+        "title": "The account for Coruscant Base Level Processing Plant in Coruscant has dropped to 31,647,405 Credits."
+      },
+      {
+        "time": 262390.37817766,
+        "factionname": "New Republic",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "CSS-1 Corellian Star Shuttle FAJ-873 in Prakith<br />Ordered by New Republic police to stop and be inspected.<br />Response: Comply",
+        "money": 0,
+        "passedtime": "21m 14s",
+        "title": "Police Interdiction"
+      },
+      {
+        "time": 262375.72777846,
+        "factionname": "",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Corporate Sector Authority station under construction in Nimban",
+        "money": 0,
+        "passedtime": "21m 29s",
+        "title": "War update: "
+      },
+      {
+        "time": 262336.35805726,
+        "factionname": "New Republic",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "U-wing UT-60D  XVW-690 in Coruscant<br />Ordered by New Republic police to stop and be inspected.<br />Response: Comply",
+        "money": 0,
+        "passedtime": "22m 08s",
+        "title": "Police Interdiction"
+      },
+      {
+        "time": 262335.37437406,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "22m 09s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 262306.66440166,
+        "factionname": "",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Increased Corporate Sector Authority reconnaissance in Nimban",
+        "money": 0,
+        "passedtime": "22m 38s",
+        "title": "War update: "
+      },
+      {
+        "time": 262244.93245246,
+        "factionname": "",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Increased Corporate Sector Authority reconnaissance in Nimban",
+        "money": 0,
+        "passedtime": "23m 39s",
+        "title": "War update: "
+      },
+      {
+        "time": 262183.85718286,
+        "factionname": "New Republic",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "CSS-1 Corellian Star Shuttle Lead HDZ-293 in Perma<br />Ordered by New Republic police to stop and be inspected.<br />Response: Comply",
+        "money": 0,
+        "passedtime": "24m 40s",
+        "title": "Police Interdiction"
+      },
+      {
+        "time": 262180.12051726,
+        "factionname": "",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Corporate Sector Authority mounting defence in Nimban",
+        "money": 0,
+        "passedtime": "24m 44s",
+        "title": "War update: "
+      },
+      {
+        "time": 262173.47318206,
+        "factionname": "",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Increased Corporate Sector Authority reconnaissance in Eadu",
+        "money": 0,
+        "passedtime": "24m 51s",
+        "title": "War update: "
+      },
+      {
+        "time": 262102.14843468,
+        "factionname": "",
+        "bonus": 368,
+        "passedtime": "26m 02s",
+        "text": "Queuing up trade order for 8 Medical Supplies. Buying at 43 to sell at 89. I should earn 368 in profit.<br />Total estimated lifetime profit before this trade: 15,351,986.",
+        "highlighted": false,
+        "money": -344,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( DSG-054 )"
+      },
+      {
+        "time": 262072.6216562,
+        "factionname": "Mon Calamari Shipyards",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Reason: Trade Completed<br />Current reputation: 21",
+        "money": 0,
+        "passedtime": "26m 32s",
+        "title": "Reputation gained"
+      },
+      {
+        "time": 262066.99375887,
+        "factionname": "",
+        "bonus": 0,
+        "highlighted": false,
+        "text": "Increased Corporate Sector Authority reconnaissance in Nimban",
+        "money": 0,
+        "passedtime": "26m 37s",
+        "title": "War update: "
+      },
+      {
+        "time": 262064.51911147,
+        "factionname": "",
+        "bonus": 130200,
+        "passedtime": "26m 40s",
+        "text": "Queuing up trade order for 1240 Antimatter Converters. Buying at 248 to sell at 353. I should earn 130200 in profit.<br />Total estimated lifetime profit before this trade: 18,129,091.",
+        "highlighted": false,
+        "money": -307520,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( YVM-438 )"
+      },
+      {
+        "time": 262053.76801487,
+        "factionname": "",
+        "bonus": 135464,
+        "passedtime": "26m 50s",
+        "text": "Queuing up trade order for 826 Field Coils. Buying at 247 to sell at 411. I should earn 135464 in profit.<br />Total estimated lifetime profit before this trade: 16,181,688.",
+        "highlighted": false,
+        "money": -204022,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( ZYA-390 )"
+      },
+      {
+        "time": 262040.49974157,
+        "factionname": "",
+        "bonus": 139664,
+        "passedtime": "27m 04s",
+        "text": "Queuing up trade order for 688 Silicon Wafers. Buying at 180 to sell at 383. I should earn 139664 in profit.<br />Total estimated lifetime profit before this trade: 31,795,353.",
+        "highlighted": false,
+        "money": -123840,
+        "title": "DeadTater: CSS-1 Corellian Star Shuttle ( QQB-480 )"
+      }
+    ],
+    "factions": [
+      {
+        "color": {
+          "a": 100,
+          "b": 0,
+          "g": 0,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Anoat Federation",
+        "shortname": "ANO",
+        "relation": -25,
+        "id": "anoat"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 0,
+          "g": 0,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Imperial Ascendancy",
+        "shortname": "ASC",
+        "relation": -25,
+        "id": "ascendancy"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Baobab Merchant Fleet",
+        "shortname": "BAO",
+        "relation": 0,
+        "id": "baobab"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Bounty Hunters Guild",
+        "shortname": "BHG",
+        "relation": 1,
+        "id": "bountyhunters"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Black Sun",
+        "shortname": "BLS",
+        "relation": -5,
+        "id": "blacksun"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Banking Clan",
+        "shortname": "BNC",
+        "relation": 0,
+        "id": "bankingclan"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": true,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Corellian Engeneering Corporation",
+        "shortname": "CEC",
+        "relation": 12,
+        "id": "corellia"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": true,
+        "hasCapitalLicence": true,
+        "currentGameTime": 263664.74951651,
+        "name": "Corporate Sector Authority",
+        "shortname": "CSA",
+        "relation": 30,
+        "id": "corporate"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Hapes Consortium",
+        "shortname": "HAP",
+        "relation": 0,
+        "id": "hapes"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Hutt Pirates",
+        "shortname": "HTP",
+        "relation": -5,
+        "id": "huttpirates"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 153,
+          "g": 153,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Hutt Cartel",
+        "shortname": "HUTT",
+        "relation": -15,
+        "id": "huttcartel"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 0,
+          "g": 0,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Independent Commerce Guild",
+        "shortname": "ICG",
+        "relation": -30,
+        "id": "commerceguild"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 0,
+          "g": 0,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Galactic Empire",
+        "shortname": "IMP",
+        "relation": -25,
+        "id": "galempire"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": true,
+        "hasCapitalLicence": true,
+        "currentGameTime": 263664.74951651,
+        "name": "Incom Corporation",
+        "shortname": "INC",
+        "relation": 12,
+        "id": "incom"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Kamino",
+        "shortname": "KAM",
+        "relation": 0,
+        "id": "kamino"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Kuat Drive Yards",
+        "shortname": "KDY",
+        "relation": 2,
+        "id": "kuat"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": true,
+        "hasCapitalLicence": true,
+        "currentGameTime": 263664.74951651,
+        "name": "Mon Calamari Shipyards",
+        "shortname": "MCS",
+        "relation": 21,
+        "id": "moncal"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Mandalorian Raiders",
+        "shortname": "MDR",
+        "relation": -5,
+        "id": "mandoraiders"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 0,
+          "g": 0,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Mandalorian Death Watch",
+        "shortname": "MDW",
+        "relation": -30,
+        "id": "mandodw"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": true,
+        "currentGameTime": 263664.74951651,
+        "name": "Mining Guild",
+        "shortname": "MNG",
+        "relation": 1,
+        "id": "miningguild"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Naboo Royal Authority",
+        "shortname": "NAB",
+        "relation": 0,
+        "id": "naboo"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": true,
+        "hasCapitalLicence": true,
+        "currentGameTime": 263664.74951651,
+        "name": "New Republic",
+        "shortname": "NRL",
+        "relation": 30,
+        "id": "newrepublic"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": true,
+        "hasCapitalLicence": true,
+        "currentGameTime": 263664.74951651,
+        "name": "Crimson Trade Organization",
+        "shortname": "PL",
+        "relation": 30,
+        "id": "player"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Rendili Drive Yards",
+        "shortname": "RDY",
+        "relation": 6,
+        "id": "rendili"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Rebel Alliance",
+        "shortname": "REB",
+        "relation": 0,
+        "id": "rebelalliance"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Sienar Fleet Systems",
+        "shortname": "SIE",
+        "relation": 0,
+        "id": "sienar"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 0,
+          "g": 0,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Sith Empire",
+        "shortname": "SITH",
+        "relation": -30,
+        "id": "sith"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Tagge Corporation",
+        "shortname": "TAG",
+        "relation": 0,
+        "id": "tagge"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Trade Federation",
+        "shortname": "TFD",
+        "relation": 0,
+        "id": "tradefederation"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Twin Suns Transport Services",
+        "shortname": "TST",
+        "relation": 0,
+        "id": "twinsuns"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 0,
+          "g": 0,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Unknown Threat",
+        "shortname": "Unknown Threat",
+        "relation": -30,
+        "id": "xenon"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Valarian Syndicate",
+        "shortname": "VLS",
+        "relation": -5,
+        "id": "valarian"
+      },
+      {
+        "color": {
+          "a": 100,
+          "b": 0,
+          "g": 0,
+          "r": 255
+        },
+        "hasMilitaryLicence": false,
+        "hasCapitalLicence": false,
+        "currentGameTime": 263664.74951651,
+        "name": "Yuuzhan Vong",
+        "shortname": "YUV",
+        "relation": -30,
+        "id": "khaak"
+      }
+    ],
+    "updatePending": false
+  }
+  
